@@ -23,6 +23,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4C89?style=flat&logo=n8n&logoColor=white)
 ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
