@@ -3,7 +3,7 @@
 🚀 Em transição de carreira para tecnologia | Desenvolvedor Front-End | Automação | Python | n8n | Banco de Dados  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerffeson-flor%C3%AAncio-5610212b2)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerffeson.araujo.sinx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerffeson.florencio93@gmail.com)
 
 ---
 
