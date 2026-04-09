@@ -12,7 +12,7 @@
 - 🔄 Em 2024 iniciei minha **transição de carreira** para a área de tecnologia.  
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (Estácio)** — previsão de conclusão: 2026.  
 - 🐍 Experiência prática com **Python, automação (n8n)**, **Banco de Dados** e **Desenvolvimento de Software**.  
-- 💼 Hoje estagiário de projetos na **Meireles e Freitas Advogados**.  
+- 💼 Hoje estagiário de projetos na **MD Digital Law**.  
 
 ---
 
